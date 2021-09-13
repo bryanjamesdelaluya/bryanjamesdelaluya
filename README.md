@@ -4,7 +4,7 @@ my name is Bryan and I am a Web Developer / Laravel Developer specializing in ba
 [![Linkedin Badge](https://img.shields.io/badge/-bjaydelaluya-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjcdl/)](https://www.linkedin.com/in/bjcdl/)
 [![Twitter Badge](https://img.shields.io/badge/-bjaydelaluya-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bjaydelaluya/)](https://twitter.com/bjaydelaluya)
 
-### ⚡ Technologies
+### Technologies ⚡
 
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF">
