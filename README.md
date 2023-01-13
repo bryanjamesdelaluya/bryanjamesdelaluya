@@ -20,8 +20,6 @@ my name is Bryan and I am a Web Developer / Laravel Developer specializing in ba
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjamesdelaluya&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=fffff) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjamesdelaluya&layout=compact)
-
 <!--
 **bryanjamesdelaluya/bryanjamesdelaluya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
