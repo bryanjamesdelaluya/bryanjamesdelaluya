@@ -1,5 +1,5 @@
-### Hello, Folks! 👋
-my name is Bryan and I am a Web Developer / Laravel Developer specializing in back-end development from Cavite, Philippines with almost a decade of relevant experience in developing and maintaining enterprise web applications, I currently work at [Dog and Rooster, Inc.](https://dogandrooster.com/).
+### Greetings! 👋
+My name is Bryan, a skilled Web and Laravel Developer with almost a decade of experience in developing and managing enterprise-level web applications. Hailing from the beautiful city of Cavite, Philippines, I am currently employed at [Dog and Rooster, Inc.](https://dogandrooster.com/), where I specialize in back-end development. With a proven track record of delivering high-quality results, I am committed to providing exceptional service and contributing to the success of your next project.
 
 [![Linkedin Badge](https://img.shields.io/badge/-bjaydelaluya-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjcdl/)](https://www.linkedin.com/in/bjcdl/)
 [![Twitter Badge](https://img.shields.io/badge/-bjaydelaluya-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bjaydelaluya/)](https://twitter.com/bjaydelaluya)
