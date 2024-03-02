@@ -18,6 +18,10 @@ My name is Bryan, a skilled Web and Laravel Developer with almost a decade of ex
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
 
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bryanjamesdelaluya&theme=dark&background=000000)](https://github.com/SuperStar91031?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjamesdelaluya&layout=compact&theme=vision-friendly-dark)](https://github.com/bryanjamesdelaluya)
 ---
 
 <!--
